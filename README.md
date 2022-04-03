@@ -8,7 +8,7 @@
 
 ![2017 All Stocks](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/2017%20All%20Stocks.png?raw=true) ![2017 All Stocks](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/2018%20All%20Stocks.png?raw=true)
 
-##### You can see above that my stocks analysis for both 2017 and 2018 show the volatility of these green energy stocks. The imagas above illustrate 12 individual stocks performances for both 2017 and 2018. When looking at the data more closely there does not seem to be a direct relationship between the "Total Daily Volume" of each stock and the "Return" that we see for each year. This is something that Steve should notify his parents about as this seemed to be something that they believed was correlated.
+##### You can see above that my stocks analysis for both 2017 and 2018 show the volatility of these green energy stocks. The imagas above illustrate 12 individual stocks performances for both 2017 and 2018. When looking at the data more closely there does not seem to be a direct relationship between the "Total Daily Volume" of each stock and the "Return" that we see for each year. This is something that Steve should notify his parents about as this seemed to be something that they believed was correlated. I would also recommend that Steve inform his parents to no longer solely invest in DAQO as they saw a negative return in 2018.
 
 ![VBA Script Refactored Example](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/VBA%20Script%20Refactored.png?raw=true)
 
