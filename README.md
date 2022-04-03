@@ -6,6 +6,8 @@
 
 ## Results:
 
+![2017 All Stocks](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/2017%20All%20Stocks.png?raw=true) ![2017 All Stocks](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/2018%20All%20Stocks.png?raw=true)
+
 ![VBA Script Refactored Example](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/VBA%20Script%20Refactored.png?raw=true)
 
 ##### Paste in my thoughts here
