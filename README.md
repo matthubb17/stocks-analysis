@@ -12,7 +12,9 @@
 
 ![VBA Script Refactored Example](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/VBA%20Script%20Refactored.png?raw=true)
 
-##### Paste in my thoughts here
+##### I have proveded my refactored code above.
+
+- Through this code I was able to use both loops and nested loops along with conditional statements in order to have VBA run this script.
 
 
 
