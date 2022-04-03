@@ -6,7 +6,7 @@
 
 ## Results:
 
-![Image of Theater Outcomes based on Launch Date](https://github.com/matthubb17/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
+![VBA Script Refactored Example](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/VBA%20Script%20Refactored.png?raw=true)
 
 ##### Paste in my thoughts here
 
