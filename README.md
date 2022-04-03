@@ -24,6 +24,10 @@
   - Thoughts here....
   - Thoughts here....
 
+![2017](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/2017%20Run%20Script.png?raw=true) ![2018](https://github.com/matthubb17/stocks-analysis/blob/main/Resources/2018%20Run%20Script.png?raw=true)
+
+
+
 
 - How do these pros and cons apply to refactoring the original VBA script?
   - Thoughts here....
