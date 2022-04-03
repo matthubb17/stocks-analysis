@@ -14,7 +14,7 @@
 
 ##### I have proveded my refactored code above.
 
-- Through this code I was able to use both loops and nested loops along with conditional statements in order to have VBA run this script.
+- Through this code I was able to use both loops and nested loops along with conditional statements in order to have VBA run this script. As mentioned above, this scrip is now easily accessible for Steve and is available for him to run for additional stocks in the future. By refactoring the code I was able to condense the code and make it more legible.
 
 
 
